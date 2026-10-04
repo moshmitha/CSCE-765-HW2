@@ -84,6 +84,5 @@ I changed the automated test to modify the message-type field while keeping the 
 
 I did not rely only on the AI-generated suggestions. I ran the implementation and tests in the course VM, checked the generated outputs, and revised the tests where necessary.
 
-Final automated result:
-
-    8 passed
+Final automated result: 
+8 passed

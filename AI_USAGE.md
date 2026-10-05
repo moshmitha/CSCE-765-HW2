@@ -66,10 +66,7 @@ The handshake was run successfully and its rejection cases were exercised, inclu
 
 The secure record implementation was tested with valid bidirectional messages and adversarial records, including modified ciphertext, modified authenticated headers, replay, and wrong-direction/reflected records.
 
-Finally, the automated pytest suite was executed:
-
-    8 passed
-
+Finally, the automated pytest suite was executed: 8 PASSED
 The tests were run independently in the homework virtual environment.
 
 ## Example AI Error / Limitation / Rejected Suggestion
